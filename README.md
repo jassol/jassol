@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, I'm Jasmin 👋
+
+Professionally, I am full stack developer working in primarily Javascript. I am curious about how things are made: right now, that means playing around with the D3 data viz library.
+
+My main stack in React/Redux, Express, and Postgres.
+
+- My portfolio: jasminsoltani.com
+- My linkedin: linkedin.com/jasminsoltani
 
 <!--
 **jassol/jassol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
