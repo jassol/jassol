@@ -1,9 +1,5 @@
 ## Hi, I'm Jasmin.
 
-Professionally, I am full stack developer working in primarily Javascript. On top of my freelancing work I like to play around with new libraries. Right now, that's D3.js.
-
-Have any fun side projects or job opportunities? I'd love to hear from you.
-
 - [Portfolio](http://jasminsoltani.com)
 - [Linkedin](http://linkedin.com/jasminsoltani)
 
