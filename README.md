@@ -1,7 +1,7 @@
 ## Hi, I'm Jasmin.
 
 - [Portfolio](http://jasminsoltani.com)
-- [Linkedin](http://linkedin.com/jasminsoltani)
+- [Linkedin](https://www.linkedin.com/in/jasminsoltani/)
 
 <!--
 **jassol/jassol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
